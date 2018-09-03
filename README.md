@@ -1,4 +1,4 @@
-# ElectronicaDigital Grupo: IV
+# Electronica Digital Grupo: IV
 Proyecto Estacion metereologica con almacenamiento con datos a Internet. Ciclo 06 UEES
 
 Integrantes:
